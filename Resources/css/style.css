@@ -69,3 +69,25 @@ li a {
   background-image: url("../Images/the-flatiron-building.png");
   color: white;
 }
+
+/**** Footer ******/
+
+.footer {
+  text-align: left;
+  background: dimgray;
+  font-size: 11px;
+  color: white;
+}
+
+.footer p {
+  display: inline;
+}
+
+.footer a {
+  color: white;
+  margin-left: 5px;
+}
+
+.copy {
+  padding-left: 5px;
+}
