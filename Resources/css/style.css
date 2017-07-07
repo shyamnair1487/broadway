@@ -49,3 +49,14 @@ li a {
   color: white;
   display: block;
 }
+
+/**** Main ****/
+
+.process img, .understand img, .execute img {
+  margin-top: 10px
+}
+
+.process p, .understand p, .execute p {
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
