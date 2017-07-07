@@ -33,6 +33,7 @@ p {
   background-repeat: no-repeat;
   background-position: 2% 98%;
   padding-bottom: 3px;
+  color: white;
 }
 
 ul {
@@ -50,6 +51,7 @@ li a {
   display: block;
 }
 
+
 /**** Main ****/
 
 .process img, .understand img, .execute img {
@@ -59,4 +61,11 @@ li a {
 .process p, .understand p, .execute p {
   margin-bottom: 10px;
   padding-bottom: 10px;
+}
+
+/**** Header-2 ****/
+
+.header-2 {
+  background-image: url("../Images/the-flatiron-building.png");
+  color: white;
 }
