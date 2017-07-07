@@ -29,6 +29,7 @@ p {
 
 .header {
   background-image: url("../Images/the-flatiron-building.png");
+  padding-bottom: 3px;
 }
 
 ul {
@@ -37,12 +38,11 @@ ul {
 }
 
 li {
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 
 }
 
 li a {
   color: white;
   display: block;
-
 }
